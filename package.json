@@ -1,0 +1,25 @@
+{
+  "name": "test-repo-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatyarajarla/test-repo-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatyarajarla/test-repo-one/issues"
+  },
+  "homepage": "https://github.com/venkatyarajarla/test-repo-one#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.29.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.20.1"
+  }
+}
